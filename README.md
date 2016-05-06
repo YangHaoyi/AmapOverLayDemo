@@ -18,6 +18,11 @@
   marker点击默认是将marker设置屏幕居中，这时候只需将onMarkerClick的返回值设置为true即可
   
   这样marker就会保持原位。
+  
+  点击marker，如果需要infowindow保持不在屏幕外，需要通过aMap move camera实现
+  
+  ![ABC](http://www.baidu.com/img/bdlogo.gif)
+  
    ![image](http://github.com/qweyhy/AmpOverLayDemo/screenshot/screenshot_1.jpg)
   
 
