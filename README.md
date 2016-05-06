@@ -21,7 +21,7 @@
   
   点击marker，如果需要infowindow保持不在屏幕外，需要通过aMap move camera实现
   
-  ![ABC](http://www.baidu.com/img/bdlogo.gif)
+  ![ABC](http://github.com/qweyhy/AmpOverLayDemo/screenshot/screenshot_1.jpg)
   
    ![image](http://github.com/qweyhy/AmpOverLayDemo/screenshot/screenshot_1.jpg)
   
