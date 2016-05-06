@@ -22,6 +22,8 @@
   点击marker，如果需要infowindow保持不在屏幕外，需要通过aMap move camera实现
   
   ![image](https://github.com/qweyhy/AmpOverLayDemo/blob/master/screenshot/screenshot_1.jpg)
+   ![image](https://github.com/qweyhy/AmpOverLayDemo/blob/master/screenshot/screenshot_2.jpg)
+    ![image](https://github.com/qweyhy/AmpOverLayDemo/blob/master/screenshot/screenshot_3.jpg)
   
   
   
