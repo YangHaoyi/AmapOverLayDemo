@@ -1,4 +1,4 @@
-# AmpOverLayDemo
+# AmapOverLayDemo
 高德地图覆盖物完全解析
 
 由于项目要求，对地图覆盖物需求点击，所以选择marker作为覆盖物主题
